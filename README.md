@@ -6,7 +6,7 @@ This project is built upon supervised and unsupervised pansharpening methods. It
 ## Supervised pansharpening
 
 | Methods  | Name |Articles |Code| Conferences or Journals |Publish Year |
-| ------------- | ------------- |------------- |------------- |------------- |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |
 | PNN | Pansharpening by Convolutional Neural   Networks  | [article](https://www.mdpi.com/2072-4292/8/7/594) |  [code](https://github.com/ThomasWangWeiHong/Pansharpening-by-Convolutional-Neural-Network)  | Remote Sens.  |2016 |
 |  DRPNN | Boosting the Accuracy of Multispectral Image Pansharpening by Learning a Deep Residual Network  | [article](https://ieeexplore.ieee.org/abstract/document/8012503)  | [code](https://github.com/Decri/DRPNN-Deep-Residual-Pan-sharpening-Neural-Network)  | GRSL| 2017 |
 |  FusionNet | Detail Injection-based Deep Convolutional Neural Networks for Pansharpening  | [article](https://ieeexplore.ieee.org/document/9240949)  | [code](https://github.com/liangjiandeng/FusionNet)  | TGRS | 2020 |
@@ -22,8 +22,8 @@ This project is built upon supervised and unsupervised pansharpening methods. It
 
 ## Unsupervised pansharpening
 
-| Methods  | Articles |Google Scholar |Code |Publish Year |
-| ------------- | ------------- |------------- |------------- |------------- |
+| Methods  | Name |Articles |Code| Conferences or Journals |Publish Year |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |
 |Pan-GAN  | Pan-GAN: An unsupervised pan-sharpening   method for remote sensing image fusion  | [article](https://www.sciencedirect.com/science/article/pii/S1566253520302591)  | [code](https://github.com/yuwei998/PanGAN)  | IF| 2020 |
 |UCNN  | Pansharpening via Unsupervised Convolutional   Neural Networks  | [article](https://ieeexplore.ieee.org/abstract/document/9136909)  |  | JSTARS| 2020 |
 |PGMAN  | PGMAN: An Unsupervised Generative Multiadversarial Network for Pansharpening  | [article](https://arxiv.org/abs/2012.09054)  | [code](https://github.com/zhysora/PGMAN) | JSTARS| 2021 |
@@ -45,9 +45,13 @@ $D_Lambda$、$D_s$、$QNR$
 
 ## Useful Collections
 以下链接包含pansharpening任务常见的开源代码集合以及公开数据集、评价指标等。
+
 The following links contains a collection of commonly used open-source codes for the pansharpening task, as well as public datasets, evaluation metrics, and so on.
+
 [DLPan-Toolbox](https://github.com/liangjiandeng/DLPan-Toolbox)
+
 [Pancollection](https://github.com/liangjiandeng/PanCollection)
+
 [FuseBox](https://github.com/sjtrny/FuseBox)
 
 
