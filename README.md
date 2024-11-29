@@ -40,7 +40,7 @@ This project is built upon supervised and unsupervised pansharpening methods. It
 PSNR、SSIM、ERGAS、SAM、Q
 
 ### Unsupervised
-$D_{λ} 、 $D_s$ 、 $QNR$
+$D_λ 、 $D_s$ 、 $QNR$
 
 
 ## Useful Collections
