@@ -3,6 +3,15 @@
 本项目基于有监督与无监督的多光谱图像融合方法，整理最新的pansharpening开源工作，方便该领域科研人员与爱好者了解该领域的最新进展！
 
 This project is built upon supervised and unsupervised pansharpening methods. It organizes the latest open-source work related to pansharpening, making it convenient for researchers and enthusiasts in this field to stay updated on the latest advancements!
+## News
+[NEW ACCEPTED][2024-08-09]我们的论文《Deep Variational Network for Blind Pansharpening》已经被IEEE Transactions on Neural Networks and Learning Systems接收！！！
+
+[article](https://ieeexplore.ieee.org/abstract/document/10632205)
+
+[NEW ACCEPTED][2025-01-01]我们的论文《Kernel-guided injection deep network for blind fusion of multispectral and panchromatic images》已经被Pattern Recognition接收！！
+
+[article](https://www.sciencedirect.com/science/article/pii/S003132032400640X)
+
 ## Supervised pansharpening
 
 | Methods  | Name |Articles |Code| Conferences or Journals |Publish Year |
