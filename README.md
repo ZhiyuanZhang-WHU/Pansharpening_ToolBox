@@ -58,6 +58,8 @@ The following links contains a collection of commonly used open-source codes for
 
 如果本仓库对您的研究有帮助，请考虑引用我们的论文在您的工作中！！！
 
+If this repository is helpful to your research, please consider citing our papers in your work!!!
+
 ```python
 @article{zhang2024deep,
   title={Deep Variational Network for Blind Pansharpening},
