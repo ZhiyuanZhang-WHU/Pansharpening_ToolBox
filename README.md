@@ -54,6 +54,34 @@ The following links contains a collection of commonly used open-source codes for
 
 [FuseBox](https://github.com/sjtrny/FuseBox)
 
+## Citation
+
+如果本仓库对您的研究有帮助，请考虑引用我们的论文在您的工作中！！！
+
+```python
+@article{zhang2024deep,
+  title={Deep Variational Network for Blind Pansharpening},
+  author={Zhang, Zhiyuan and Li, Haoxuan and Ke, Chengjie and Chen, Jun and Tian, Xin},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
+```python
+@article{ke2025kernel,
+  title={Kernel-guided injection deep network for blind fusion of multispectral and panchromatic images},
+  author={Ke, Chengjie and Zhang, Zhiyuan and Zhang, Wei and Chen, Jun and Tian, Xin},
+  journal={Pattern Recognition},
+  volume={157},
+  pages={110889},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+
+
 
 
 
