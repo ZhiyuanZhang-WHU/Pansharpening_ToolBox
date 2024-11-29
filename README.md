@@ -6,9 +6,13 @@ This project is built upon supervised and unsupervised pansharpening methods. It
 ## News
 [NEW ACCEPTED][2024-08-09]我们的论文《Deep Variational Network for Blind Pansharpening》已经被IEEE Transactions on Neural Networks and Learning Systems接收！！！
 
+！[model arch]()
+
 [article](https://ieeexplore.ieee.org/abstract/document/10632205)
 
 [NEW ACCEPTED][2025-01-01]我们的论文《Kernel-guided injection deep network for blind fusion of multispectral and panchromatic images》已经被Pattern Recognition接收！！
+
+！[model arch]()
 
 [article](https://www.sciencedirect.com/science/article/pii/S003132032400640X)
 
