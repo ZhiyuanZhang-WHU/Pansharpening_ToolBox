@@ -30,6 +30,10 @@ This project is built upon supervised and unsupervised pansharpening methods. It
 |  BiMPan |Bidomain Modeling Paradigm for Pansharpening  | [article](https://dl.acm.org/doi/10.1145/3581783.3612188)  | [code](https://github.com/coder-qicao/BiMPan)  | ACM MM | 2023 |
 |  P2Sharpen |P2Sharpen: A progressive pansharpening network with deep spectral transformation | [article](https://www.sciencedirect.com/science/article/pii/S1566253522001798)  | [code](https://github.com/Baixuzx7/P2Sharpen)  | IF| 2023 |
 |  PGCU |Probability-based Global Cross-modal Upsampling for Pansharpening  | [article](https://arxiv.org/abs/2303.13659)  | [code](https://github.com/Zeyu-Zhu/PGCU)  | CVPR| 2023 |
+|  VBPN |Deep Variational Network for Blind Pansharpening  | [article](https://ieeexplore.ieee.org/abstract/document/10632205)  | [code](https://github.com/ZhiyuanZhang-WHU/VBPN)  |TNNLS| 2024 |
+
+
+
 
 
 
