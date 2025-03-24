@@ -44,7 +44,7 @@ This project is built upon supervised and unsupervised pansharpening methods. It
 |Pan-GAN  | Pan-GAN: An unsupervised pan-sharpening   method for remote sensing image fusion  | [article](https://www.sciencedirect.com/science/article/pii/S1566253520302591)  | [code](https://github.com/yuwei998/PanGAN)  | IF| 2020 |
 |UCNN  | Pansharpening via Unsupervised Convolutional   Neural Networks  | [article](https://ieeexplore.ieee.org/abstract/document/9136909)  |  | JSTARS| 2020 |
 |PGMAN  | PGMAN: An Unsupervised Generative Multiadversarial Network for Pansharpening  | [article](https://arxiv.org/abs/2012.09054)  | [code](https://github.com/zhysora/PGMAN) | JSTARS| 2021 |
-|LDPNet  | PGMAN: An Unsupervised Generative Multiadversarial Network for Pansharpening  | [article](https://arxiv.org/abs/2111.12483)  | [code](https://github.com/NWPUZhoufei/LDP-Net) | CVPR| 2021 |
+|LDPNet  | LDP-Net: An Unsupervised Pansharpening Network Based on Learnable Degradation Processes  | [article](https://arxiv.org/abs/2111.12483)  | [code](https://github.com/NWPUZhoufei/LDP-Net) | CVPR| 2021 |
 |UCGAN  | Unsupervised Cycle-Consistent Generative   Adversarial Networks for Pan Sharpening  | [article](https://ieeexplore.ieee.org/abstract/document/9755137)  | [code](https://github.com/zhysora/UCGAN) | TGRS| 2022 |
 |Lambda-PNN  | Unsupervised Deep Learning-based Pansharpening with Jointly-Enhanced Spectral and Spatial Fidelity | [article](https://ieeexplore.ieee.org/document/10198408)  |  [code](https://github.com/matciotola/Lambda-PNN) | TGRS| 2023|
 |USCPNet  | Unsupervised Pan-Sharpening Network Incorporating Imaging Spectral Prior and Spatial-Spectral Compensation | [article](https://ieeexplore.ieee.org/document/10583923)  |  | TGRS| 2024 |
